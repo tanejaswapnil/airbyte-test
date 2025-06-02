@@ -1,0 +1,39 @@
+Machine Learning Algorithms: An Overview
+Machine Learning (ML) algorithms are the backbone of artificial intelligence, enabling systems to learn from data, identify patterns, and make decisions with minimal human intervention. These algorithms are broadly classified into three main categories: Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
+
+1. Supervised Learning
+Supervised learning involves training a model on a labeled dataset, where the input features are mapped to known output labels. Common algorithms include:
+
+Linear Regression – Predicts continuous values by fitting a linear relationship between input and output.
+
+Logistic Regression – Used for binary classification problems (e.g., spam detection).
+
+Decision Trees – Splits data into branches to make decisions (e.g., customer churn prediction).
+
+Random Forest – An ensemble method that combines multiple decision trees for better accuracy.
+
+Support Vector Machines (SVM) – Finds the optimal hyperplane to separate different classes.
+
+Neural Networks – Deep learning models that mimic the human brain for complex tasks like image recognition.
+
+2. Unsupervised Learning
+Unsupervised learning deals with unlabeled data, discovering hidden patterns without predefined outputs. Key algorithms include:
+
+K-Means Clustering – Groups data into *k* clusters based on similarity (e.g., customer segmentation).
+
+Hierarchical Clustering – Builds a tree of clusters for multi-level data grouping.
+
+Principal Component Analysis (PCA) – Reduces dimensionality while preserving data variance.
+
+Apriori Algorithm – Used for association rule mining (e.g., market basket analysis).
+
+Autoencoders – Neural networks that learn efficient data encodings for anomaly detection.
+
+3. Reinforcement Learning
+Reinforcement Learning (RL) trains models to make sequences of decisions by rewarding desired behaviors. Popular algorithms include:
+
+Q-Learning – A model-free RL algorithm that learns action values in a state space.
+
+Deep Q-Networks (DQN) – Combines Q-learning with deep neural networks for complex environments.
+
+Policy Gradient Methods – Directly optimize the policy function for actions (e.g., robotics control)
